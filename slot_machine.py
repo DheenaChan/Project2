@@ -1,4 +1,4 @@
-# Add the project title
+# 3*3 slot machine game
 
 import random
 
