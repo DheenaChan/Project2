@@ -1,3 +1,5 @@
+# Add the project title
+
 import random
 
 MAX_LINES = 3
